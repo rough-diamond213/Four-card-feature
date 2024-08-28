@@ -39,7 +39,7 @@ This challenge is to build out this feature section and get it looking as close 
 
 ### What I learned
 
-The use of both flex and grip property together
+The use of both flex and grid property together
 
 ## Author
 
