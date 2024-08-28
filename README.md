@@ -21,7 +21,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 This challenge is to build out this feature section and get it looking as close to the design as possible.
 
 ### Screenshot
-![four-card-feature](https://github.com/user-attachments/assets/dfb2fa0d-fcc5-4ea5-a1a7-04e9e7d0270a)
+![four-card-feature](https://github.com/user-attachments/assets/bdd30560-df2f-451d-9487-679857699c34)
 
 ### Links
 
