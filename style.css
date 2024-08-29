@@ -174,7 +174,7 @@ h1{
     
     .body-content{
         width: 90%;
-        grid-template-columns: repeat(1, 100%);
+        grid-template-columns: 100%;
         gap: 25px;
     }   
 
